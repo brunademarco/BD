@@ -1,0 +1,25 @@
+1- É o conjunto integrado que permite armazenar, consultar, atualizar e administrar dados de forma segura e confiáveL.
+2- O SBD é composto por dados e seus metadados, o SGBD (Software de criação e manipulação), usuários e suas aplicações e os mecanismos de segurança e integridade. 
+3- Os usuários finais interagem comm o SGBD, software responsável por mediar o contato com o BD, essa interação pode ser feita através das aplicações criadas, que enviam comandos e consultas para o SGBD.
+4- Um BD é uma coleção organizada de dados relacionados. Um exemplo físico de BD é o catálogo telefônico brasileiro dos anos 2000, que organizava os números de telefone de pessoas e empresas em ordem alfabética.
+5- As principais propriedades de um BD são uma coleção de dados relacionados, o compartilhamento de dados, a segurança e integridade, a descrição do minimundo e o controle de redundância.
+6- As etapas de um projeto de BD são:
+Especificação
+Análise de requisitos
+Projeto conceitual
+Projeto lógico
+Projeto físico
+7- O SGBD é um Software que permite definir, construir, manipular e compartilhar dados de modo seguro.
+8- Algumas das propriedades de um SGBD são:
+Abstração e independência de dados, linguagens de dados, segurança e autorização, integridade, otimização e desempenho e backup.
+9- O uso do SGBD pode se tornar inadequado ao se tratar de sistemas com baixa complexidade, que requerem aplicações muito simples e não há necessidade de um SGBD, aplicações com requisitos rigorosos, geralmente em tempo real, sistemas embarcados, sistemas em que o acesso debe ser feito por múltiplos usuários não requeridos.
+10- Um modelo de dados é um conjunto de conceitos usados para descrever a estrutura, o relacionamento e as restrições sobre os dados em um banco de dados.
+11- Modelo conceitual, lógico e físico.
+12- Um esquema de BD é uma coleção de metadados que definem o banco de dados.
+13- A instância de BD define um conjunto de dados armazenados em um determinado momento, por exemplo, estado vazio (sem nenhum dado armazenado) e estado inicial (Bd populado com dados iniciais).
+14- As principais vantagens de utilizar a arquitetura de três esquemas em um BD são a autodescrição, independência da aplicação e o suporte a múltiplas visões.
+15- Nível externo, conceitual e interno.
+16- O mapeamento pode ser definido como a transformação de requisições e resultados entre os níveis.
+17- A independência de dados é a capacidade de alterar o esquema em um nível, sem precisar alterar o nível superior.
+18- É uma linguagem interativa e declarativa de alto nível, em que define quais dados recuperar e especifica operações complexas de forma concisa.
+19- As linguagens incorporadas no SQL são a VDL, DDL, SDL e DML.
