@@ -1,0 +1,23 @@
+Hands On 4 
+Aluna: Bruna Luiza Noely De Marco - Matrícula: 877423
+
+1) π first_name, last_name (σ gender = 'F' (actors))
+
+2) A = σ year > 1999 (movies)
+π name (A)
+
+3) A = ρ idMovie ← id (movies)
+B = A ⨝ idMovie = movie_id movies_directors
+C = B ⨝ director_id = id directors
+π name, first_name, last_name (C)
+
+4) A = σ rank > 6 (movies)
+B = ρ idMovie ← id (A)
+C = B ⨝ idMovie = movie_id roles
+D = C ⨝ actor_id = id actors
+π name, first_name, last_name, role (D)
+
+5) 
+
+
+
